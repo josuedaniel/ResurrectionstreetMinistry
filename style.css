@@ -25,9 +25,22 @@
 }
 
 #navs {
+
     background-color: rgb(80, 8, 8);
+
+}
+
+.lt {
+    color: white;
+    font-weight: 600;
+    line-height: 3.5;
 }
 
 #dark {
+    background-color: rgb(80, 8, 8);
+
+}
+
+#sectdark {
     background-color: rgb(80, 8, 8);
 }
