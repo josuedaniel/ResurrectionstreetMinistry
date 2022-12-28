@@ -24,9 +24,13 @@
         inset 0 .125em .5em rgba(0, 0, 0, .15);
 }
 
+
+
 #navs {
 
     background-color: rgb(80, 8, 8);
+    /*position: absolute;*/
+    padding-bottom: 0px;
 
 }
 
@@ -43,4 +47,21 @@
 
 #sectdark {
     background-color: rgb(80, 8, 8);
+    margin-top: 80px;
+    padding: 60px 20% 20px;
+    line-height: 2;
+}
+
+#sectdark h1 {
+    font-size: 2.5em;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+#sectdark p {
+    /*font-size: 1.5em;*/
+}
+
+#secttwo {
+    width: 100vw;
 }
