@@ -1,3 +1,9 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
 #show {
     padding-top: 20px;
     background-image: url("images/resurrectionstreetministriesshowcase.jpg");
@@ -63,5 +69,14 @@
 }
 
 #secttwo {
-    width: 100vw;
+    max-width: 100vw;
+    height: 50vh;
+}
+
+.image {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+
 }
