@@ -1,5 +1,14 @@
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-size: 1.2em;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 1.8em;
 }
 
 
@@ -9,15 +18,17 @@ body {
     background-image: url("images/resurrectionstreetministriesshowcase.jpg");
     height: 100vh;
     width: 100vw;
+
 }
 
 #showtext {
     padding-top: 20px;
     font-size: 2em;
+    margin-top: 20px;
 }
 
 #showtext h1 {
-    font-size: 2.2em;
+    /*font-size: 2em;*/
 
 }
 
@@ -77,6 +88,37 @@ body {
     display: block;
     object-fit: cover;
     width: 100%;
-    height: 200px;
+    height: 130px;
 
+}
+
+#cfp {
+    background-color: rgb(80, 8, 8);
+}
+
+#cfph {
+    padding-bottom: 1em;
+}
+
+#serveimage {}
+
+#rsmfp {
+    /* top | horizontal | bottom */
+    padding: 3em 0 1em;
+    line-height: 2;
+
+
+}
+
+#rsmfp p {}
+
+
+/* STUFF Thrift store 2nd section */
+#sts {
+    margin-top: 80px;
+    background-color: rgb(80, 8, 8);
+}
+
+#stscta {
+    background-color: rgb(80, 8, 8);
 }
