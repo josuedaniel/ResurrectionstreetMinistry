@@ -113,12 +113,29 @@ h1 {
 #rsmfp p {}
 
 
+/* STUFF Thrift store Hero Slider section */
+
+#myCarousel {
+    padding-top: 80px;
+}
+
+#myCarousel img {
+    height: 100vh;
+    width: 100%;
+    align-self: center;
+}
+
 /* STUFF Thrift store 2nd section */
 #sts {
-    margin-top: 80px;
+    margin-top: 0px;
     background-color: rgb(80, 8, 8);
 }
 
 #stscta {
     background-color: rgb(80, 8, 8);
+}
+
+.bg-darkred {
+    background-color: rgb(80, 8, 8);
+    padding-top: 80px;
 }
