@@ -153,3 +153,14 @@ h1 {
 .spimg {
     width: 95%;
 }
+
+.vmpic {
+    width: 100%;
+}
+
+.volbtn {
+    background-color: rgb(80, 8, 8);
+    color: white;
+    padding: 12px;
+    line-height: 2;
+}
